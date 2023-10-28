@@ -55,6 +55,8 @@
 </picture>
 <br/>
 
+## 💼 Work
+
 <!-- use a HTML table to be able to put code blocks inside -->
 <table>
   <tr>
@@ -78,6 +80,8 @@ print(about_me.experiences.current_position)
 </table>
 
 PhD student in geometry processing at CEA, France
+
+## 🔧 Tools I use
 
 <table>
   <tr>
@@ -107,6 +111,8 @@ display_with_links(df)
 8 | [Excalidraw](https://excalidraw.com/) | drawing | Simple - beautiful - feature-complete - always up-to-date
 9 | [Obsidian](https://obsidian.md/) | knowledge management | Link your notes!!!
 10 | [AnyType](https://anytype.io/) | knowledge management | How computer files should have been designed from the beginning
+
+## 👀 Interests
 
 <table>
   <tr>
