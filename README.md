@@ -1,3 +1,60 @@
+<!-- you know it's gonna be fancy when there's more HTML than Markdown -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/save_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="icons/save_black.png">
+  <img alt="Save" src="icons/save_black.png">
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/add_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="icons/add_black.png">
+  <img alt="Add" src="icons/add_black.png">
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/cut_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="icons/cut_black.png">
+  <img alt="Cut" src="icons/cut_black.png">
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/copy_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="icons/copy_black.png">
+  <img alt="Copy" src="icons/copy_black.png">
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/paste_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="icons/paste_black.png">
+  <img alt="Paste" src="icons/paste_black.png">
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/run_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="icons/run_black.png">
+  <img alt="Run" src="icons/run_black.png">
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/stop_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="icons/stop_black.png">
+  <img alt="Stop" src="icons/stop_black.png">
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/restart_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="icons/restart_black.png">
+  <img alt="Restart" src="icons/restart_black.png">
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/fast_forward_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="icons/fast_forward_black.png">
+  <img alt="Fast-forward" src="icons/fast_forward_black.png">
+</picture>
+<br/>
+
 <!-- use a HTML table to be able to put code blocks inside -->
 <table>
   <tr>
