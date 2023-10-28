@@ -87,7 +87,7 @@ import pandas as pd
 from random import randrange
 df = pd.read_csv('tools_I_use.csv')
 for idx in df.index:
-    if randrange(3) == 0:
+    if randrange(10) == 0:
         df['URL'][idx] = 'https://youtu.be/dQw4w9WgXcQ'
 display_with_links(df)
 </pre></td>
