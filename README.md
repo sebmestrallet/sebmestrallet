@@ -125,7 +125,8 @@ display_with_links(df)
 
 ['graphic design',<br/>
 &nbsp;'data visualization',<br/>
-&nbsp;'web-based scientific apps',<br/>
+&nbsp;'web development with PWA, Wasm, WebGPU',<br/>
+&nbsp;'educational mock-ups of algorithms',<br/>
+&nbsp;'interactive scientific visualizations',<br/>
 &nbsp;'knowledge management',<br/>
-&nbsp;'productivity tools',<br/>
-&nbsp;'educational physical models of algorithms']
+&nbsp;'productivity tools']
