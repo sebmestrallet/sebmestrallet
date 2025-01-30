@@ -100,7 +100,7 @@ I'm designing talks & trainings about digital technologies, from both a user per
 &nbsp;'<a href="https://github.com/sebmestrallet/typst-paris-saclay-thesis-flat">typst-paris-saclay-thesis-flat</a>: a Typst template for Paris-Saclay University theses',<br/>
 &nbsp;'<a href="https://github.com/sebmestrallet/typst-simple-siam">typst-simple-siam </a>: a Typst template for SIAM paper submissions']
 
-## 🔧 Tools I use
+## 🧰 Toolbox
 
 <table>
   <tr>
