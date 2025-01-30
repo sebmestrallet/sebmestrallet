@@ -1,5 +1,7 @@
 <!-- you know it's gonna be fancy when there's more HTML than Markdown -->
 
+<code>&emsp;localhost:8888/notebooks/sebmestrallet.ipynb&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</code>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="icons/save_white.png">
   <source media="(prefers-color-scheme: light)" srcset="icons/save_black.png">
