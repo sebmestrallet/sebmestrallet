@@ -79,7 +79,7 @@ print(about_me.experiences.current_position)
   </tr>
 </table>
 
-I'm designing talks & trainings about digital technologies, from both a user perspective (productivity, software tools, emails/documents/notes/tasks management) and an engineer perspective (how things works).
+I'm designing talks & trainings about digital technologies, from both a user perspective (productivity, software tools, emails/documents/notes/tasks management) and an engineer perspective (how things work).
 
 ## 📁 Projects
 
