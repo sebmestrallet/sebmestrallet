@@ -68,7 +68,7 @@ print(about_me.current_position)
   </tr>
 </table>
 
-absolute,left=520px,top=100px
+absolute, left=520px, top=100px
 
 <table>
   <tr>
@@ -79,7 +79,7 @@ print(about_me.experiences.current_position)
   </tr>
 </table>
 
-PhD student in geometry processing at CEA, France
+I'm designing talks & trainings about digital technologies, from both a user perspective (productivity, software tools, emails/documents/notes/tasks management) and an engineer perspective (how things works).
 
 ## 🔧 Tools I use
 
