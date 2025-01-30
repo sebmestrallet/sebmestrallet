@@ -62,7 +62,7 @@
   <tr>
     <td>[1]:</td>
     <td><pre lang="python">
-import SebastienMestrallet as about_me                                                               
+import SebastienMestrallet as about_me
 print(about_me.current_position)
 </pre></td>
   </tr>
@@ -74,20 +74,39 @@ absolute, left=520px, top=100px
   <tr>
     <td>[2]:</td>
     <td><pre lang="python">
-print(about_me.experiences.current_position)                                                         
+print(about_me.experiences.current_position)
 </pre></td>
   </tr>
 </table>
 
 I'm designing talks & trainings about digital technologies, from both a user perspective (productivity, software tools, emails/documents/notes/tasks management) and an engineer perspective (how things works).
 
-## 🔧 Tools I use
+## 📁 Projects
 
 <table>
   <tr>
     <td>[3]:</td>
     <td><pre lang="python">
-import pandas as pd                                                                                  
+[project for project in about_me.projects if 'Hello World' not in project]
+</pre></td>
+  </tr>
+</table>
+
+['<a href="https://github.com/LIHPC-Computational-Geometry/validity-first-polycube-labeling">validity-first-polycube-labeling</a>: a labeling algorithm for automatic polycube generation',<br/>
+&nbsp;'<a href="https://github.com/LIHPC-Computational-Geometry/nightmare_of_polycubes">nightmare_of_polycubes</a>: challenging shapes for polycube generation',<br/>
+&nbsp;'dds: scripts to manage nested, semantic data folders',<br/>
+&nbsp;'<a href="https://github.com/LIHPC-Computational-Geometry/dds-hexmeshing">dds-hexmeshing</a>: dds for hexahedral mesh generation',<br/>
+&nbsp;'<a href="https://github.com/sebmestrallet/genetic-algorithms">genetic-algorithms</a>: simple examples of genetic algorithms',<br/>
+&nbsp;'<a href="https://github.com/sebmestrallet/typst-paris-saclay-thesis-flat">typst-paris-saclay-thesis-flat</a>: a Typst template for Paris-Saclay University theses',<br/>
+&nbsp;'<a href="https://github.com/sebmestrallet/typst-simple-siam">typst-simple-siam </a>: a Typst template for SIAM paper submissions']
+
+## 🔧 Tools I use
+
+<table>
+  <tr>
+    <td>[4]:</td>
+    <td><pre lang="python">
+import pandas as pd
 from random import randrange
 df = pd.read_csv('tools_I_use.csv')
 for idx in df.index:
@@ -111,22 +130,3 @@ display_with_links(df)
 8 | [Excalidraw](https://excalidraw.com/) | drawing | Simple - beautiful - feature-complete - always up-to-date
 9 | [Obsidian](https://obsidian.md/) | knowledge management | Link your notes!!!
 10 | [AnyType](https://anytype.io/) | knowledge management | How computer files should have been designed from the beginning
-
-## 👀 Interests
-
-<table>
-  <tr>
-    <td>[4]:</td>
-    <td><pre lang="python">
-[interest for interest in about_me.interests if 'coffee' not in interest]                            
-</pre></td>
-  </tr>
-</table>
-
-['graphic design',<br/>
-&nbsp;'data visualization',<br/>
-&nbsp;'web development with PWA, Wasm, WebGPU',<br/>
-&nbsp;'educational mock-ups of algorithms',<br/>
-&nbsp;'interactive scientific visualizations',<br/>
-&nbsp;'knowledge management',<br/>
-&nbsp;'productivity tools']
