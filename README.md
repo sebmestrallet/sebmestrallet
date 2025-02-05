@@ -64,7 +64,7 @@
   <tr>
     <td>[1]:</td>
     <td><pre lang="python">
-import SebastienMestrallet as about_me
+import SebastienMestrallet as about_me                                                               
 print(about_me.current_position)
 </pre></td>
   </tr>
@@ -76,7 +76,7 @@ absolute, left=520px, top=100px
   <tr>
     <td>[2]:</td>
     <td><pre lang="python">
-print(about_me.experiences.current_position)
+print(about_me.experiences.current_position)                                                         
 </pre></td>
   </tr>
 </table>
@@ -89,7 +89,7 @@ I'm designing talks & trainings about digital technologies, from both a user per
   <tr>
     <td>[3]:</td>
     <td><pre lang="python">
-[project for project in about_me.projects if 'Hello World' not in project]
+[project for project in about_me.projects if 'Hello World' not in project]                           
 </pre></td>
   </tr>
 </table>
@@ -108,13 +108,13 @@ I'm designing talks & trainings about digital technologies, from both a user per
   <tr>
     <td>[4]:</td>
     <td><pre lang="python">
-import pandas as pd
+import pandas as pd                                                                                  
 from random import randrange
 df = pd.read_csv('tools_I_use.csv')
 for idx in df.index:
     if randrange(10) == 0:
         df['URL'][idx] = 'https://youtu.be/dQw4w9WgXcQ'
-display_with_links(df)
+display(df)
 </pre></td>
   </tr>
 </table>
