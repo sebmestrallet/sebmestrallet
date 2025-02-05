@@ -62,7 +62,7 @@
 <!-- use a HTML table to be able to put code blocks inside -->
 <table>
   <tr>
-    <td>[1]:</td>
+    <td>[𝟷]:</td>
     <td><pre lang="python">
 import SebastienMestrallet as about_me                                                               
 print(about_me.current_position)
@@ -74,7 +74,7 @@ absolute, left=520px, top=100px
 
 <table>
   <tr>
-    <td>[2]:</td>
+    <td>[𝟸]:</td>
     <td><pre lang="python">
 print(about_me.experiences.current_position)                                                         
 </pre></td>
@@ -87,7 +87,7 @@ I'm designing talks & trainings about digital technologies, from both a user per
 
 <table>
   <tr>
-    <td>[3]:</td>
+    <td>[𝟹]:</td>
     <td><pre lang="python">
 [project for project in about_me.projects if 'Hello World' not in project]                           
 </pre></td>
@@ -106,7 +106,7 @@ I'm designing talks & trainings about digital technologies, from both a user per
 
 <table>
   <tr>
-    <td>[4]:</td>
+    <td>[𝟺]:</td>
     <td><pre lang="python">
 import pandas as pd                                                                                  
 from random import randrange
