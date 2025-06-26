@@ -1,7 +1,5 @@
 <!-- you know it's gonna be fancy when there's more HTML than Markdown -->
 
-<code>&emsp;localhost:8888/notebooks/sebmestrallet.ipynb&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</code>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="icons/save_white.png">
   <source media="(prefers-color-scheme: light)" srcset="icons/save_black.png">
@@ -100,7 +98,8 @@ I'm designing talks & trainings about digital technologies, from both a user per
 &nbsp;'<a href="https://github.com/LIHPC-Computational-Geometry/dds-hexmeshing">dds-hexmeshing</a>: dds for hexahedral mesh generation',<br/>
 &nbsp;'<a href="https://github.com/sebmestrallet/genetic-algorithms">genetic-algorithms</a>: simple examples of genetic algorithms',<br/>
 &nbsp;'<a href="https://github.com/sebmestrallet/typst-paris-saclay-thesis-flat">typst-paris-saclay-thesis-flat</a>: a Typst template for Paris-Saclay University theses',<br/>
-&nbsp;'<a href="https://github.com/sebmestrallet/typst-simple-siam">typst-simple-siam </a>: a Typst template for SIAM paper submissions']
+&nbsp;'<a href="https://github.com/sebmestrallet/typst-simple-siam">typst-simple-siam</a>: a Typst template for SIAM paper submissions',<br/>
+&nbsp;'<a href="https://github.com/sebmestrallet/absurd-badges">absurd-badges</a>: well... absurd badges']
 
 ## 🧰 Toolbox
 
