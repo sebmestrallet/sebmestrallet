@@ -1,6 +1,8 @@
 > [!IMPORTANT]
 > **I'm looking for a job in software development / web technologies / AI engineering**
 
+&rarr; [Personal webpage](https://sebastienmestrallet.fr/) and [CV](https://sebastienmestrallet.fr/CV.pdf), in French
+
 ## 💼 Work experience & 🎓 education
 
 - 2025: **Speaker and trainer in digital technologies** · Self-employed<br/>
@@ -28,6 +30,8 @@
 `HTML` `CSS` `Sass` `Reveal.js` `Web component`
 - *(private project)*<br/>
 `Python` `uv` `CLI design`
+- *(private project)*<br/>
+`Rust`
 - [validity-first-polycube-labeling](https://github.com/LIHPC-Computational-Geometry/validity-first-polycube-labeling): a labeling algorithm for automatic polycube generation<br/>
 `C++` `Geogram` `CMake` `ImGui`
 - [nightmare_of_polycubes](https://github.com/LIHPC-Computational-Geometry/nightmare_of_polycubes): challenging shapes for polycube generation<br/>
