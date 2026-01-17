@@ -30,16 +30,22 @@
 `HTML` `CSS` `Sass` `Reveal.js` `Web component`
 - *(private project)*<br/>
 `Python` `uv` `CLI design`
-- *(private project)*<br/>
-`Rust`
+- [bevy-hexmesh](https://github.com/sebmestrallet/bevy-hexmesh): hexahedral mesh rendering with the Bevy engine<br/>
+`Rust` `Bevy`
+- [logo-widget](https://github.com/sebmestrallet/logo-widget): a custom Python widget to move/scale/rotate a logo<br/>
+`Javascript` `Python` `Anywidget` `marimo notebook`
 - [validity-first-polycube-labeling](https://github.com/LIHPC-Computational-Geometry/validity-first-polycube-labeling): a labeling algorithm for automatic polycube generation<br/>
 `C++` `Geogram` `CMake` `ImGui`
 - [nightmare_of_polycubes](https://github.com/LIHPC-Computational-Geometry/nightmare_of_polycubes): challenging shapes for polycube generation<br/>
 `CAD design` `SALOME` `glTF`
 - [dds-hexmeshing](https://github.com/LIHPC-Computational-Geometry/dds-hexmeshing): scripts to manage nested, semantic data folders for hexahedral mesh generation<br/>
 `Python` `Rye` `CLI design`
+- [hexex2geogram](https://github.com/LIHPC-Computational-Geometry/hexex2geogram) and [vtk2geogram](https://github.com/LIHPC-Computational-Geometry/vtk2geogram): mesh file format conversions<br/>
+`C++` `UltiMaille` `CMake`
+- [geogram-boilerplate](https://github.com/LIHPC-Computational-Geometry/geogram-boilerplate): a template to get you up and running with the Geogram library<br/>
+`C++` `Geogram` `CMake` `ImGui`
 - [genetic-algorithms](https://github.com/sebmestrallet/genetic-algorithms): simple examples of genetic algorithms<br/>
-`Python` `Jupyter Notebook` `MATLAB`
+`Python` `marimo notebook` `Jupyter Notebook` `MATLAB`
 - [typst-paris-saclay-thesis-flat](https://github.com/sebmestrallet/typst-paris-saclay-thesis-flat): a Typst template for Paris-Saclay University theses<br/>
 `Typst`
 - [absurd-badges](https://github.com/sebmestrallet/absurd-badges): a collection of absurd, humorous, static badges<br/>
