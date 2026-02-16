@@ -30,7 +30,7 @@
 `HTML` `CSS` `Sass` `Reveal.js` `Web component`
 - *(private project)*<br/>
 `Python` `uv` `CLI design`
-- [bevy-hexmesh](https://github.com/sebmestrallet/bevy-hexmesh): hexahedral mesh rendering with the Bevy engine<br/>
+- [hexmesh-rendering](https://github.com/sebmestrallet/hexmesh-rendering): hexahedral mesh rendering with the Bevy engine<br/>
 `Rust` `Bevy`
 - [logo-widget](https://github.com/sebmestrallet/logo-widget): a custom Python widget to move/scale/rotate a logo<br/>
 `Javascript` `Python` `Anywidget` `marimo notebook`
