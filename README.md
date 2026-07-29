@@ -1,8 +1,3 @@
-> [!IMPORTANT]
-> **I'm looking for a job in software development / web technologies / AI engineering**
-
-&rarr; [Personal webpage](https://sebastienmestrallet.fr/) and [CV](https://sebastienmestrallet.fr/CV.pdf), in French
-
 ## 💼 Work experience & 🎓 education
 
 - 2025: **Speaker and trainer in digital technologies** · Self-employed<br/>
