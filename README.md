@@ -1,47 +1,51 @@
-## 💼 Work experience & 🎓 education
+I studied and worked on electrical engineering, computer science, web development, knowledge management, and productivity, in various contexts : large companies, scientific research, education and entrepreneurship.
 
-- 2025: **Speaker and trainer in digital technologies** · Self-employed<br/>
-`Node.js` `Vite` `TypeScript` `Svelte` `Tailwind` `Reveal.js`
-- 2021.10-2024.12: **PhD in Computer Science** (geometry processing) · CEA & Paris-Saclay University, France<br/>
-3D mesh generation algorithm for numerical simulations<br/>
-[Thesis manuscript](https://theses.fr/2024UPASG087)<br/>
-`C++` `Python` `Applied mathematics` `ImGui` `Geogram` `CMake` `CLI design` `CAD design` `SALOME` `glTF`
-- 2025.03-08: **Sofware development intern** · CEA, France<br/>
-`C++` `Julia`
-- 2019.10-2020.01: **Signal processing intern** · SKF, France<br/>
-`MATLAB`
-- 2018.09-2021.18: **Electrical engineering school** (Master equivalent) · INSA Lyon, France<br/>
-`MATLAB` `C++` `Applied mathematics`
-- 2018.04-08: **Sofware development intern** · Ingenico, France<br/>
-`C++` `MFC`
-- 2016.09-2018.06: **Electrical engineering university institute** · IUT Lyon 1, France<br/>
-`Embedded computing` `C` `Java`
+I am currently an electrical engineering teacher at [Saint Nicolas high school](https://lyceesaintnicolas.com/), Paris.
 
-## 📁 Projects
+I have several projects around human cognition : information influx processing, project management, communication, critical mind, learning, notes management, ideation, and time management.
 
-- *(private project)*<br/>
-`Node.js` `Vite` `TypeScript` `Svelte` `Tailwind`
-- *(private project)*<br/>
-`HTML` `CSS` `Sass` `Reveal.js` `Web component`
-- *(private project)*<br/>
-`Python` `uv` `CLI design`
-- [hexmesh-rendering](https://github.com/sebmestrallet/hexmesh-rendering): hexahedral mesh rendering with the Bevy engine<br/>
-`Rust` `Bevy`
-- [logo-widget](https://github.com/sebmestrallet/logo-widget): a custom Python widget to move/scale/rotate a logo<br/>
-`Javascript` `Python` `Anywidget` `marimo notebook`
-- [validity-first-polycube-labeling](https://github.com/LIHPC-Computational-Geometry/validity-first-polycube-labeling): a labeling algorithm for automatic polycube generation<br/>
-`C++` `Geogram` `CMake` `ImGui`
-- [nightmare_of_polycubes](https://github.com/LIHPC-Computational-Geometry/nightmare_of_polycubes): challenging shapes for polycube generation<br/>
-`CAD design` `SALOME` `glTF`
-- [dds-hexmeshing](https://github.com/LIHPC-Computational-Geometry/dds-hexmeshing): scripts to manage nested, semantic data folders for hexahedral mesh generation<br/>
-`Python` `Rye` `CLI design`
-- [hexex2geogram](https://github.com/LIHPC-Computational-Geometry/hexex2geogram) and [vtk2geogram](https://github.com/LIHPC-Computational-Geometry/vtk2geogram): mesh file format conversions<br/>
-`C++` `UltiMaille` `CMake`
-- [geogram-boilerplate](https://github.com/LIHPC-Computational-Geometry/geogram-boilerplate): a template to get you up and running with the Geogram library<br/>
-`C++` `Geogram` `CMake` `ImGui`
-- [genetic-algorithms](https://github.com/sebmestrallet/genetic-algorithms): simple examples of genetic algorithms<br/>
-`Python` `marimo notebook` `Jupyter Notebook` `MATLAB`
-- [typst-paris-saclay-thesis-flat](https://github.com/sebmestrallet/typst-paris-saclay-thesis-flat): a Typst template for Paris-Saclay University theses<br/>
-`Typst`
-- [absurd-badges](https://github.com/sebmestrallet/absurd-badges): a collection of absurd, humorous, static badges<br/>
-`Shields.io` `Badgen`
+## Open-source work
+
+> **[absurd-badges](https://github.com/sebmestrallet/absurd-badges)**<br/>
+  ![Badgen](https://badgen.net/badge/icon/Badgen/0088CC?label&labelColor=0088CC) ![Shields.io](https://badgen.net/badge/icon/Shields.io/000000?icon=shieldsdotio&label&labelColor=000000)<br/>
+  A collection of absurd, humorous, static badges
+
+> **[typst-paris-saclay-thesis-flat](https://github.com/sebmestrallet/typst-paris-saclay-thesis-flat)**<br/>
+  ![Typst](https://badgen.net/badge/icon/Typst/239DAD?icon=typst&label&labelColor=239DAD)<br/>
+  A Typst template for Paris-Saclay University theses
+
+> **[nightmare_of_polycubes](https://github.com/LIHPC-Computational-Geometry/nightmare_of_polycubes)**<br/>
+  ![glTF](https://badgen.net/badge/icon/glTF/87C540?icon=gltf&label&labelColor=87C540) ![SALOME](https://badgen.net/badge/icon/SALOME/000000?label&labelColor=000000)<br/>
+  Challenging 3D shapes for polycube generation
+
+> **[validity-first-polycube-labeling](https://github.com/LIHPC-Computational-Geometry/validity-first-polycube-labeling)**<br/>
+  ![C++](https://badgen.net/badge/icon/C++/00599C?icon=cplusplus&label&labelColor=00599C) ![CMake](https://badgen.net/badge/icon/CMake/064F8C?icon=cmake&label&labelColor=064F8C) ![ImGui](https://badgen.net/badge/icon/ImGui/000000?label&labelColor=000000) ![Geogram](https://badgen.net/badge/icon/Geogram/000094?label&labelColor=000094)<br/>
+  A labeling algorithm for automatic polycube generation
+
+> **[dds-hexmeshing](https://github.com/LIHPC-Computational-Geometry/dds-hexmeshing)**<br/>
+  ![Python](https://badgen.net/badge/icon/Python/3776AB?icon=python&label&labelColor=3776AB)<br/>
+  Scripts to manage nested, semantic data folders for hexahedral mesh generation
+
+> **[geogram-boilerplate](https://github.com/LIHPC-Computational-Geometry/geogram-boilerplate)**<br/>
+  ![C++](https://badgen.net/badge/icon/C++/00599C?icon=cplusplus&label&labelColor=00599C) ![CMake](https://badgen.net/badge/icon/CMake/064F8C?icon=cmake&label&labelColor=064F8C) ![ImGui](https://badgen.net/badge/icon/ImGui/000000?label&labelColor=000000) ![Geogram](https://badgen.net/badge/icon/Geogram/000094?label&labelColor=000094)<br/>
+  A template to get you up and running with the Geogram library
+
+> **[hexex2geogram](https://github.com/LIHPC-Computational-Geometry/hexex2geogram)** & **[vtk2geogram](https://github.com/LIHPC-Computational-Geometry/vtk2geogram)**<br/>
+  ![C++](https://badgen.net/badge/icon/C++/00599C?icon=cplusplus&label&labelColor=00599C) ![CMake](https://badgen.net/badge/icon/CMake/064F8C?icon=cmake&label&labelColor=064F8C) ![UltiMaille](https://badgen.net/badge/icon/UltiMaille/000000?label&labelColor=000000)<br/>
+  Mesh file format conversions
+
+> **[hexmesh-rendering](https://codeberg.org/sebmestrallet/bevy-hexmesh)**<br/>
+  ![Rust](https://badgen.net/badge/icon/Rust/000000?icon=rust&label&labelColor=000000) ![Bevy](https://badgen.net/badge/icon/Bevy/232326?icon=bevy&label&labelColor=232326)<br/>
+  Hexahedral mesh rendering with the Bevy engine
+
+> **[genetic-algorithms](https://codeberg.org/sebmestrallet/genetic-algorithms)**<br/>
+  ![Python](https://badgen.net/badge/icon/Python/3776AB?icon=python&label&labelColor=3776AB) ![marimo](https://badgen.net/badge/icon/marimo/0D9488?label&labelColor=0D9488) ![Jupyter](https://badgen.net/badge/icon/Jupyter/F37626?icon=jupyter&label&labelColor=F37626) ![MATLAB](https://badgen.net/badge/icon/MATLAB/0076A8?label&labelColor=0076A8)<br/>
+  Simple examples of genetic algorithms
+
+## Hot takes
+
+> **AI**: a marketing term for software comprising a self-optimisation step
+
+> **C++**: a joke language like Brainf*ck, unfortunately too many people took it seriously
+
+> **Rust**: what Prometheus stole from the gods
